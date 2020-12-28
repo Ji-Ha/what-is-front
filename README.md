@@ -30,9 +30,26 @@
         - value를 통하여 보여지는 모습을 정할 수 있다. ex) "제출"
         
     2. select tag
-        [select tag](./img/select&option.PNG)
+    
+        ![select tag](./img/select&option.PNG)
         - select와 option tag를 사용하였다.
         - 체크박스 형식으로 선택할 수 있다.
         - 다중 선택은 ctrl을 누른 상태로 두개를 선택할 수 있다.
         
-    3. 
+    3. radio & checkbox 속성
+        
+        ![radio&checkbox 속성](./img/radio&checkbox.png)
+        - radio는 단일 선택을 주로 하는 button이다.
+        - 색상의 단일선택처럼 하나의 주제에 대한 선택을 하기 위해서는 name을 같게 해주면 된다.
+        - checkbox는 다중선택이 가능하게 하는 button이다.
+        - 역시 name을 같게 설정하여 사용하면, 사진과 같이 한 주제로 나오게 된다.
+        
+    4. hidden tag
+        
+        - 화면에 보이진 않지만, 프로그래머가 서버에 전송할 데이터를 숨겨서 전송할 수 있도록 해주는 tag이다.
+
+    5. label tag
+    
+        ![label](./img/label.png)
+        - label을 설정하고, 그에 맞는 id를 tag에서 사용하면 된다.
+        - 이를 통해서 범위에 대한 집합(?)이 가능하다.
