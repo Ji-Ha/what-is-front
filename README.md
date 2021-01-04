@@ -73,3 +73,10 @@
     1. id 선택자 > class 선택자 > tag 선택자
     2. id 선택자의 우선순위가 가장 높기 때문에 나중에 같은 요소를 class로 선택하더라도 상태가 변하지 않는다.
     3. id 선택자는 중복되지 않는다.(사람으로 따지면 주민등록같은 느낌이기 때문이다.)
+    
+- box model
+    1. html의 태그들은 각자 크기가 다르다.
+    2. 화면 전체의 크기를 가지는 태그들을 block level element
+    3. 자신의 크기만큼을 가지는 태그들을 inline element라고 한다.
+    tip. code는 생략할수록 좋다.
+    border-width, border-color, border-style -> border: 5px, solid, red(순서는 상관 없다.)
