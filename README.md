@@ -80,3 +80,8 @@
     3. 자신의 크기만큼을 가지는 태그들을 inline element라고 한다.
     tip. code는 생략할수록 좋다.
     border-width, border-color, border-style -> border: 5px, solid, red(순서는 상관 없다.)
+    
+- grid
+    1. div, span == block level element, inline element
+    2. fr -> 화면을 자동적으로 비율에 맞춰서 분할하는 것.
+    3. caniuse.com -> 최신 css기술을 사용가능한지 묻는 사이트 
