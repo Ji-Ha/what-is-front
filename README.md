@@ -85,3 +85,8 @@
     1. div, span == block level element, inline element
     2. fr -> 화면을 자동적으로 비율에 맞춰서 분할하는 것.
     3. caniuse.com -> 최신 css기술을 사용가능한지 묻는 사이트 
+    
+- media query
+    1. 반응형 디자인을 하기 위한 방법(화면에 크기에 따라 반응하여 보여주는 것)
+    2. 여러 매개체를 통해 웹을 보게 될텐데 그럴 때 반응하여 보여주거나 안보여주는 방식
+    
